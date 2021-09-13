@@ -21,7 +21,7 @@ Ensure you have Android Studio installed on your machine.
 Clone the repository below
 
 ```
-git clone https://github.com/Keeprawteach/NY-Times.git
+git clone https://github.com/tkmatlho/NY-Times.git
 ```
 
 ## Running the application
@@ -37,8 +37,8 @@ $ Connect your real device/emulator for testing
 
 | | | |
 |:-------------------------:|:-------------------------:|:-------------------------:|
-|<img width="1604" alt="Main Screen" src="https://github.com/Keeprawteach/NY-Times/blob/master/screenshots/device-2021-09-12-190450.png"> News Page |  <img width="1604" alt="Search" src="https://github.com/Keeprawteach/NY-Times/blob/master/screenshots/details.png"> Details Page |<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://github.com/Keeprawteach/NY-Times/blob/master/screenshots/website.png"> External Links|
-|<img width="1604" alt="Main Screen" src="https://github.com/Keeprawteach/NY-Times/blob/master/screenshots/device-2021-09-12-190450.png"> Home Page |  <img width="1604" alt="Search" src="https://github.com/Keeprawteach/NY-Times/blob/master/screenshots/search.png"> Search Page |<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://github.com/Keeprawteach/NY-Times/blob/master/screenshots/exit.png"> Menu Actions|
+|<img width="1604" alt="Main Screen" src="https://github.com/tkmatlho/NY-Times/blob/master/screenshots/device-2021-09-12-190450.png"> News Page |  <img width="1604" alt="Search" src="https://github.com/tkmatlho/NY-Times/blob/master/screenshots/details.png"> Details Page |<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://github.com/tkmatlho/NY-Times/blob/master/screenshots/website.png"> External Links|
+|<img width="1604" alt="Main Screen" src="https://github.com/tkmatlho/NY-Times/blob/master/screenshots/device-2021-09-12-190450.png"> Home Page |  <img width="1604" alt="Search" src="https://github.com/tkmatlho/NY-Times/blob/master/screenshots/search.png"> Search Page |<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://github.com/tkmatlho/NY-Times/blob/master/screenshots/exit.png"> Menu Actions|
 
 ### Author
 
